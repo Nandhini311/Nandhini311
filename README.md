@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Nandhini311</h1>
-<h3 align="center">Pythonist|learner|Animal_hooman</h3>
+<h3 align="center">Work | Vibe | Hope</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhini311&label=Profile%20views&color=0e75b6&style=flat" alt="nandhini311" /> </p>
 
