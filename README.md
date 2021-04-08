@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhini311" alt="nandhini311" /></a> </p>
 
-- 🌱 I’m currently learning **OpenCV**
-
 - 📫 How to reach me **s311nandhini@gmail.com**
 
 - ⚡ Fun fact **Banana shake chugger**
